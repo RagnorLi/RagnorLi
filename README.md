@@ -22,8 +22,8 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RagnorLi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagnorLi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RagnorLi&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RagnorLi&layout=compact&langs_count=8&theme=dark&hide=html,css"/>
 </div>
 
 ## 🎯 Latest Projects
@@ -41,7 +41,5 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RagnorLi.RagnorLi)
 ![GitHub followers](https://img.shields.io/github/followers/RagnorLi?label=Follow&style=social)
-
-*Last Updated: 2025-02-19 08:29:40 UTC*
 
 </div>
