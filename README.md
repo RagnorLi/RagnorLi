@@ -18,9 +18,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -34,8 +32,8 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 - [Project 3](link) - Brief description
 
 ## 📫 How to reach me
-- Email: your.email@example.com
-- WeChat: your_wechat_id
+- Email: ragnor.li@outlook.com
+- WeChat: RagnorLi
 - Blog: [your-blog-url](link)
 
 ---
