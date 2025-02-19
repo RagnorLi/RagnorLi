@@ -27,9 +27,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 </div>
 
 ## 🎯 Latest Projects
-- [Project 1](link) - Brief description
-- [Project 2](link) - Brief description
-- [Project 3](link) - Brief description
+- [Project 1](link) - Comming Soon
 
 ## 📫 How to reach me
 - Email: ragnor.li@outlook.com
