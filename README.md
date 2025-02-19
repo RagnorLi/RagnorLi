@@ -27,7 +27,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 </div>
 
 ## 🎯 Latest Projects
-- [Project 1](link) - Comming Soon
+- [Mathematics](https://github.com/RagnorLi/Mathematics) 
 
 ## 📫 How to reach me
 - Email: ragnor.li@outlook.com
