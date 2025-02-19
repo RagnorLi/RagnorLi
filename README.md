@@ -32,7 +32,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 ## 📫 How to reach me
 - Email: ragnor.li@outlook.com
 - WeChat: RagnorLi
-- Blog: [your-blog-url](link)
+- Blog: [RagnorLi's CoffeeAI](link)
 
 ---
 <div align="center">
