@@ -1,21 +1,23 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RagnorLi/[repository-name]/main/logo.svg" alt="TechGenesis Logo" width="400" height="400">
-</div>
-  
-# Hi there 👋 I'm RagnorLi
+## Hi there 👋 I'm RagnorLi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_url)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_url)
 [![Blog](https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](your_blog_url)
 
+## 🌈 Big Picture
+
+<div align="center">
+  <img src="https://github.com/RagnorLi/RagnorLi/blob/main/logo.svg" alt="TechGenesis Logo" width="250" height="250">
 </div>
 
 ## 🚀 About Me
+
 AI Engineer | Full Stack Developer | Open Source Enthusiast
 
-🔭 Currently working on: Large Language Models & AI Systems
-🌱 Learning: Latest in AI/ML and System Design
-💬 Ask me about: AI, Python, System Architecture
+- 🔭 Currently working on: Large Language Models & AI Systems 
+- 🌱 Learning: Latest in AI/ML and System Design 
+- 💬 Ask me about: AI, Python, System Architecture 
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
