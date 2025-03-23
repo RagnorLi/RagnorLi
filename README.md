@@ -37,6 +37,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 </div>
 
 ## 🎯 Latest Projects
+- [Cpp101n](https://github.com/RagnorLi/Cpp101n)
 - [Mathematics](https://github.com/RagnorLi/Mathematics) 
 
 ## 📫 How to reach me
