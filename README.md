@@ -37,7 +37,8 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 </div>
 
 ## 🎯 Latest Projects
-- [Mathematics](https://github.com/RagnorLi/Mathematics) 
+- [InferLab](https://github.com/RagnorLi/InferLab.git)
+  
 
 ## 📫 How to reach me
 - Email: ragnor.li@outlook.com
