@@ -43,9 +43,9 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 
 ## 🎯 Featured Projects
 
-| 项目 | 描述 | 核心模块 |
-|------|------|----------|
-| [InferLab](https://github.com/RagnorLi/InferLab.git) | LLM Inference 工程师系统化学习路径，Mountain 爬山式进度追踪与多平台进度管理 | LeetCode · HPC · Anki · 里程碑文章 |
+| Project | Description | Core Modules |
+|---------|-------------|--------------|
+| [InferLab](https://github.com/RagnorLi/InferLab.git) | Systematic learning path for LLM Inference Engineers with Mountain-style progress tracking and multi-platform management | LeetCode · HPC · Anki · Milestone Articles |
 
 ## 📫 How to reach me
 
