@@ -38,7 +38,7 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 ### 💻 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RagnorLi&theme=github-dark&area=true&hide_border=true&radius=8&height=300" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RagnorLi&theme=github-compact&area=true&hide_border=true&radius=8&height=300" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ## 🎯 Featured Projects
