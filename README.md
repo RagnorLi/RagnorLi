@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm RagnorLi
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_url)
-[![Blog](https://img.shields.io/badge/-Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](your_blog_url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的实际链接)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragnor.li@outlook.com)
 
 ## 🌈 Big Picture
 
@@ -14,13 +13,18 @@
 
 AI Engineer | Full Stack Developer | Open Source Enthusiast
 
+> **"What I cannot create, I do not understand!"** - 这是我的第一性原理
+
 - 🔭 Currently working on: Large Language Models & AI Systems 
 - 🌱 Learning: Latest in AI/ML and System Design 
-- 💬 Ask me about: AI, Python, System Architecture 
-
+- 💬 Ask me about: AI, Python, System Architecture, LLM Inference
+- ⚡ Fun fact: 通过多语言实现数据结构来深入理解算法本质
 
 ## 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -29,21 +33,30 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 ![vLLM](https://img.shields.io/badge/-vLLM-8A2BE2?style=flat-square&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/-llama.cpp-FF4154?style=flat-square&logoColor=white)
 
-
 ## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RagnorLi&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RagnorLi&layout=compact&theme=dark"/>
 </div>
 
-## 🎯 Latest Projects
-- [InferLab](https://github.com/RagnorLi/InferLab.git)
-  
+## 🎯 Featured Projects
+
+### [InferLab](https://github.com/RagnorLi/InferLab.git)
+**多语言数据结构实现库 | Multi-Language Data Structures**
+
+- 📚 **40+ 数据结构实现**：覆盖线性、树、图、集合四大类
+- 🌍 **四语言实现**：Python、C++、Rust、TypeScript
+- 🎯 **第一性原理驱动**：从底层实现理解算法本质
+- 🚀 **HPC 优化**：高性能计算场景下的数据结构优化
+- 📖 **LeetCode 实践**：结合算法题的实战应用
+
+> 通过亲手实现，而非仅仅调用 API，来真正理解数据结构的内在机制
 
 ## 📫 How to reach me
-- Email: ragnor.li@outlook.com
-- WeChat: RagnorLi
-- Blog: [RagnorLi's CoffeeAI](link)
+
+- 📧 Email: ragnor.li@outlook.com
+- 💬 WeChat: RagnorLi
 
 ---
 <div align="center">
