@@ -43,16 +43,9 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 
 ## 🎯 Featured Projects
 
-### [InferLab](https://github.com/RagnorLi/InferLab.git)
-**多语言数据结构实现库 | Multi-Language Data Structures**
-
-- 📚 **40+ 数据结构实现**：覆盖线性、树、图、集合四大类
-- 🌍 **四语言实现**：Python、C++、Rust、TypeScript
-- 🎯 **第一性原理驱动**：从底层实现理解算法本质
-- 🚀 **HPC 优化**：高性能计算场景下的数据结构优化
-- 📖 **LeetCode 实践**：结合算法题的实战应用
-
-> 通过亲手实现，而非仅仅调用 API，来真正理解数据结构的内在机制
+| 项目 | 描述 | 核心模块 |
+|------|------|----------|
+| [InferLab](https://github.com/RagnorLi/InferLab.git) | LLM Inference 工程师系统化学习路径，Mountain 爬山式进度追踪与多平台进度管理 | LeetCode · HPC · Anki · 里程碑文章 |
 
 ## 📫 How to reach me
 
