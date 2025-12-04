@@ -35,9 +35,10 @@ AI Engineer | Full Stack Developer | Open Source Enthusiast
 
 ## 📊 GitHub Stats
 
+### 💻 Coding Activity
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RagnorLi&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RagnorLi&layout=compact&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RagnorLi&theme=github-dark&area=true&hide_border=true&radius=8&height=300" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ## 🎯 Featured Projects
