@@ -11,14 +11,14 @@
 
 ## 🚀 About Me
 
-AI Engineer | Full Stack Developer | Open Source Enthusiast
+AI Engineer | Full Stack Developer | Lifelong student
 
-> **"What I cannot create, I do not understand!"** - 这是我的第一性原理
+> **"What I cannot create, I do not understand!"** - this is my first principle
 
 - 🔭 Currently working on: Large Language Models & AI Systems 
 - 🌱 Learning: Latest in AI/ML and System Design 
 - 💬 Ask me about: AI, Python, System Architecture, LLM Inference
-- ⚡ Fun fact: 通过多语言实现数据结构来深入理解算法本质
+- ⚡ To EveryOne: I wish the world would become a better place with no war, poverty, or disease, so that everyone can live freely and beautifully throughout their lives.
 
 ## 🛠️ Tech Stack
 
