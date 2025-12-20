@@ -11,9 +11,7 @@ AI Engineer | Full Stack Developer | Lifelong student
 > **"What I cannot create, I do not understand!"** - this is my first principle
 
 
-## 📊 GitHub Stats
-
-### 💻 Coding Activity
+## 💻 Coding Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RagnorLi&theme=github-compact&area=true&hide_border=true&radius=8&height=300" alt="GitHub Activity Graph" width="100%"/>
