@@ -1,15 +1,16 @@
 ## 🌈 Big Picture
 
 <div align="center">
-  <img src="https://github.com/RagnorLi/RagnorLi/blob/main/logo.svg" alt="TechGenesis Logo" width="250" height="250">
+  <img src="https://github.com/RagnorLi/RagnorLi/blob/main/logo.svg" alt="Ragnor.li Logo" width="250" height="250">
 </div>
 
 ## 🚀 About Me
 
-AI Engineer | Full Stack Developer | Lifelong student
+> **"Jeff Dean"** - 👁
+> **"Richard Feynman"** - 👶🏻 
+> **"Andrej Karpathy"** - ✋🏻
 
-> **"What I cannot create, I do not understand!"** - this is my first principle
-
+I am nobody, but just for now! 
 
 ## 💻 Coding Activity
 
@@ -21,7 +22,7 @@ AI Engineer | Full Stack Developer | Lifelong student
 
 | Project | Description | Core Modules |
 |---------|-------------|--------------|
-| [InferLab](https://github.com/RagnorLi/InferLab.git) | Systematic learning path for LLM Inference Engineers with Mountain-style progress tracking and multi-platform management | LeetCode · HPC · Anki · Milestone Articles |
+| None | None | None |
 
 ## 📫 How to reach me
 
