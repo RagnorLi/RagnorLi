@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-> **"Jeff Dean"** - 👁
-> **"Richard Feynman"** - 👶🏻 
-> **"Andrej Karpathy"** - ✋🏻
+> **Jeff Dean** - 👁  
+> **Richard Feynman** - 👶🏻    
+> **Andrej Karpathy** - ✋🏻  
 
-I am nobody, but just for now! 
+Nobody. Yet.
 
 ## 💻 Coding Activity
 
