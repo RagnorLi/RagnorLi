@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 My Mental
 
 <div align="center">
-  <img src="https://github.com/RagnorLi/RagnorLi/blob/main/CoffeeAI.png" alt="Ragnor.li Logo" width="350" height="auto">
+  <img src="https://github.com/RagnorLi/RagnorLi/blob/main/CoffeeAI.png" alt="Ragnor.li Logo" width="300" height="auto">
 </div>
 
 ## 🚀 About Me
