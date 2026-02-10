@@ -24,11 +24,6 @@ Nobody. Yet.
 |---------|-------------|--------------|
 | None | None | None |
 
-## 📫 How to reach me
-
-- 📧 Email: ragnor.li@outlook.com
-- 💬 WeChat: RagnorLi
-
 ---
 <div align="center">
   
