@@ -6,11 +6,7 @@
 
 ## 🚀 About Me
 
-> **Jeff Dean** - 👁  
-> **Richard Feynman** - 👶🏻    
-> **Andrej Karpathy** - ✋🏻  
-
-Nobody. Yet.
+I like think the real problem
 
 ## 💻 Coding Activity
 
